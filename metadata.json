@@ -1,0 +1,6 @@
+{
+  "name": "FocusRise 👑",
+  "description": "Wake Up. Think Fast. Stay Focused. Win Your Future. Smart alarm with progressive snooze math challenges, mental math master, focus timer, distraction control, and productivity companion.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
